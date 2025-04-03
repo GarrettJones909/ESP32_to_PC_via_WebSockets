@@ -7,6 +7,6 @@ On PC:
 
 pip install websockets 
 
-On ESP32 use:
+For ESP32 on Platform.IO use:
 
 "ArduinoWebsockets" by Gil Maimon
